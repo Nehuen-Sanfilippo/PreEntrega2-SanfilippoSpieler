@@ -12,5 +12,12 @@
          /* propiedad duración */ 
  }
 .anchura{
-    min-width: 230px;
+    min-width: 280px;
+    max-width: 50%;
+}
+.img_max{
+    max-width: 350px;
+}
+.img_min{
+    min-width: 280px;
 }
