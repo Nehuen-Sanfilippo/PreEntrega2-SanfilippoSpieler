@@ -1,0 +1,23 @@
+.st_pag{
+    background-color: rgb(49, 160, 223);
+    font-family:'Trebuchet MS'
+}
+.title{
+    align-items: center;
+}
+
+.animation:hover {
+    height: 250px;
+    transition: height 1s;
+         /* propiedad duración */ 
+ }
+.anchura{
+    min-width: 280px;
+    max-width: 50%;
+}
+.img_max{
+    max-width: 350px;
+}
+.img_min{
+    min-width: 280px;
+}
